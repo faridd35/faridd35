@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=frandt&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=frandt&theme=dark&show=wpm15,wpm30,tests)](https://github.com/francisdav1d/monkeytype-readme-stats)
 
 <!--
 **faridd35/faridd35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
