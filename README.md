@@ -1,9 +1,14 @@
 <div align="center">
   
 # Hey ya! Farid was here👋
-### almost a graduate, still a full-time overthinker
+### a final year (omg☠️) Informatics Education student at State University of Jakarta
 </div>
 
+## 🗣️ "Dude, who is Farid?!"
+
+## 📍 Catch me here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhm-farid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faridd.mf)
 <!--
 **faridd35/faridd35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
