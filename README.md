@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hey ya! Farid was here👋
-## Final year (☠️) Informatics Education student at State University of Jakarta
+### almost a graduate, still a full-time overthinker
 </div>
 
 <!--
