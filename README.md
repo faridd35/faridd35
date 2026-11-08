@@ -15,6 +15,8 @@ Rather than sticking to a single path, he views technology as an interconnected 
 <!--
 
 [![wakatime](https://wakatime.com/badge/user/09345d46-f785-4e55-ae61-3a190a2bb493.svg)](https://wakatime.com/@09345d46-f785-4e55-ae61-3a190a2bb493)
+## Github Profile Visitor
+![](https://komarev.com/ghpvc/?username=faridd35&style=flat)
 
 **faridd35/faridd35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
