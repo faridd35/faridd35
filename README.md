@@ -1,4 +1,8 @@
-## Hi there 👋
+<div allign="center">
+  
+# Hey ya! Farid was here👋
+## Final year (☠️) Informatics Education student at State University of Jakarta
+</div>
 
 <!--
 **faridd35/faridd35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
