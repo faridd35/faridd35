@@ -14,6 +14,11 @@ Rather than sticking to a single path, he views technology as an interconnected 
 
 <!--
 
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=faridd35&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faridd35&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridd35&layout=compact&theme=vision-friendly-dark)
+
 [![wakatime](https://wakatime.com/badge/user/09345d46-f785-4e55-ae61-3a190a2bb493.svg)](https://wakatime.com/@09345d46-f785-4e55-ae61-3a190a2bb493)
 ## Github Profile Visitor
 ![](https://komarev.com/ghpvc/?username=faridd35&style=flat)
